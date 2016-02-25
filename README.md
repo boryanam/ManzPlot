@@ -7,3 +7,5 @@ Given extensive medical and personal history, can you classfy the applicant into
 
 First, let's explore the data and see how important BMI and Age are, and yet how insufficient they are in the final prediction.
 Visual exploratory analysis is performed in R with ggplot2 using Jupyter notebook.
+
+![BMI-Age per Response Class](https://cloud.githubusercontent.com/assets/8413206/13309496/f04f2446-db42-11e5-885c-5f3c6d6d14dc.png)
